@@ -1,5 +1,7 @@
 #!\usr\bin\env python
 
+#To monitor Deauth/Diass Attacks on Wireless Access Points
+
 import sys
 import os
 from scapy.all import *
